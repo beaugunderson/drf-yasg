@@ -196,6 +196,7 @@ nitpick_ignore = [
     ('py:obj', 'Serializer'),
     ('py:obj', 'BaseSerializer'),
     ('py:obj', 'APIView'),
+    ('py:obj', 'VersionedSerializers'),
 ]
 
 # TODO: inheritance aliases in sphinx 1.7
